@@ -1,7 +1,9 @@
 # WebOCode_Palak_Apoorv
 
 HOW TO RUN YOUR WESITE LOCALLY:
-To run our file locally we will use the heroku
+1) file installation 
+2) then click on index.html file present in our folder
+3) Then you will be able to see our website named Vintage Room
 
 OUR REFERENCES
 1) https://fonts.googleapis.com/css?family=Rajdhani:300,400,500,600,700
